@@ -1,0 +1,1 @@
+A CLI countdown and elapsed timer built in Rust. Part of my deliberate path through Rust fundamentals learning how to handle time, user input, and terminal output before moving on to more complex systems.
